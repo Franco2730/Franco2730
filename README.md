@@ -1,4 +1,4 @@
-Hello World!
+Hello World! 🖖🖖
 
 I'm Franco Rosales
 I'm a Back-end-focused Full-stack programmer with a passion for database structures. Ever since I was a child, I've been drawn to fixing computers. Every time I received a gift, the first thing I did was take it apart (I spent many afternoons grounded for that). Knowing how something worked or what was behind it was more important to me.

@@ -1,7 +1,8 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+Franco Rosales+%3C3;TN+is+me!!!;Welcome+to+my+profile!" alt="Title"></img>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+Franco+Rosales!!+%3C3;TN+is+me!!!;Welcome+to+my+profile!" alt="Title"></img>
 </div>
-<h3> <img src="https://github.com/Parply/Parply/blob/master/.github/Hi.gif?raw=true" width="30px"> Hello World! 🖖🖖 </h3> 
+
+## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> About Me
 
 I'm Franco Rosales
 I'm a Back-end-focused Full-stack programmer with a passion for database structures. Ever since I was a child, I've been drawn to fixing computers. Every time I received a gift, the first thing I did was take it apart (I spent many afternoons grounded for that). Knowing how something worked or what was behind it was more important to me.

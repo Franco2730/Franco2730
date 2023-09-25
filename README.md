@@ -16,8 +16,8 @@ My main goal is to make a positive impact within a job framework where, through 
 I'm a very much a perfectionist; I like to push myself and ensure that my work is a worthy representation of what I can do. I greatly enjoy having a strong team where we all move in the same direction. I'm an avid fan of cinema, sports, and music.
 
 
-<h3> 👨‍💻 Henry Bootcamp and Udemy have allowed me to acquire various skills. And some of the languages I use are: </h3>
-•	JavaScript
+<h3> 👨‍💻 Henry Bootcamp and Udemy have allowed me to acquire various skills. And some of the languages I use are: </h3><br>
+•	JavaScript<br>
 •	React.js
 •	Node.js
 •	Express.js

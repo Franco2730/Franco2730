@@ -18,19 +18,19 @@ I'm a very much a perfectionist; I like to push myself and ensure that my work i
 
 <h3> 👨‍💻 Henry Bootcamp and Udemy have allowed me to acquire various skills. And some of the languages I use are: </h3><br>
 •	JavaScript<br>
-•	React.js
-•	Node.js
-•	Express.js
-•	PostgreSQL
-•	Sequelize
-•	GIT
-•	Python
-•	MySQL
-•	PHP
-•	CSS - Sass
-•	HTML
-
-If you want to learn more, feel free to contact me...
-Contact Information:
-•	Email: franco.rosales2130@gmail.com
-•	Phone: +54 9 261 568-1142 
+•	React.js<br>
+•	Node.js<br>
+•	Express.js<br>
+•	PostgreSQL<br>
+•	Sequelize<br>
+•	GIT<br>
+•	Python<br>
+•	MySQL<br>
+•	PHP<br>
+•	CSS - Sass<br>
+•	HTML<br>
+<br>
+If you want to learn more, feel free to contact me...<br>
+Contact Information:<br>
+•	Email: franco.rosales2130@gmail.com<br>
+•	Phone: +54 9 261 568-1142 <br>

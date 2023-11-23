@@ -32,5 +32,5 @@ I'm a very much a perfectionist; I like to push myself and ensure that my work i
 <br>
 If you want to learn more, feel free to contact me...<br>
 Contact Information:<br>
-•	Email: franco.rosales2130@gmail.com<br>
+•	Email: dev.rosales2130@gmail.com<br>
 •	Phone: +54 9 261 568-1142 <br>

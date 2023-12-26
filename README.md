@@ -19,20 +19,6 @@ I'm a very much a perfectionist; I like to push myself and ensure that my work i
 
 <h3> 👨‍💻 Henry Bootcamp and Udemy have allowed me to acquire various skills. And some of the languages I use are: </h3><br>
 
-## Tecnologías que manejo:
-
-- JavaScript: :javascript:
-- React.js: :react:
-- Node.js: :nodejs:
-- Express.js: :express:
-- PostgreSQL: :postgresql:
-- Sequelize: :sequelize:
-- GIT: :git:
-- Python: :python:
-- MySQL: :mysql:
-- CSS - Sass: :css: - :sass:
-- HTML: :html5:
-
 •	JavaScript<br>
 •	React.js<br>
 •	Node.js<br>
